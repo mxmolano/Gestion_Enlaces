@@ -1,5 +1,3 @@
----
-
 # 1. Visión del producto
 
 Crear una aplicación para guardar enlaces de forma **muy rápida, simple e intuitiva**, principalmente local, hecha con **Angular + Java**, donde el usuario pueda capturar un enlace en segundos y organizarlo después.
